@@ -9,7 +9,7 @@ MAXITER = 0  # holds the maximal number of iterations in our algorithm. sanity c
 MAX_BIDDERS = 3  # maximal number of bidders. The actual number of bidders is randomized out of domain (1,MAX_BIDDERS)
 MAX_ITEMS = (MAX_BIDDERS * 2)  # maximal number of items. The actual number of items is randomized later in code
 MAX_VALUATION = 1000  # maximal possible valuation a bidder can have for some item. again the actual number is randomized.
-NUM_TESTS = 500  # number of tests to run.
+NUM_TESTS = 10000  # number of tests to run.
 
 INVALID_VALUATION = MAX_VALUATION * MAX_ITEMS + 1
 
