@@ -1,7 +1,9 @@
 # Max-Min Welfare Problem Algorithm
 
-This repository contains the code implementation of our solution for the Max-Min welfare problem. We've designed this based on the local search methodology referenced from [garg2023approximating].
-
+This repository contains the code implementation of our solution for the Max-Min welfare problem. We've designed this based on the local search methodology referenced from [garg2023approximating](https://arxiv.org/abs/2211.03883).
+#### Contributors
+- Hen Kas-Sharir (Technion)
+- Amit Ganz (Technion)
 ## Overview
 
 The algorithm is divided into two main steps:
