@@ -36,7 +36,7 @@ In our solution, we have set several configuration parameters to control various
 
 ### How to Use
 
-1. To the entire test set run in your command line inside the directory with sol.py:
+1. To execute the entire test set, run in your command line inside the directory with sol.py:
    ```bash
    python3 sol.py
 ## Prerequisites
